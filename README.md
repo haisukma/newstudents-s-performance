@@ -48,7 +48,7 @@ Pada proyek ini telah disediakan sebuah prototype untuk melakukan prediksi terha
     ```
         streamlit run app.py
     ```
- Atau buka [tautan](https://students-performance-3zhrjqb7yjfnwwrxiw4nld.streamlit.app/) untuk membuka Streamlit.
+ Atau buka [tautan](https://newstudents-s-performance-ryhwxmaxkuda3vc6brttm2.streamlit.app/) untuk membuka Streamlit.
  <img src="https://raw.githubusercontent.com/haisukma/students-performance/main/sukmaa-prototype.png" width="500">
 
 ## Conclusion
